@@ -7,3 +7,6 @@
 [submodule "Portfolio"]
 	path = Portfolio
 	url = https://github.com/joshwinnes11/Portfolio.git
+[submodule "Project3"]
+	path = Project3
+	url = https://github.com/joshwinnes11/Project3.git
