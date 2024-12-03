@@ -13,3 +13,6 @@
 [submodule "Project 4"]
 	path = Project 4
 	url = https://github.com/joshwinnes11/Project-4.git
+[submodule "Final Project"]
+	path = Final Project
+	url = https://github.com/joshwinnes11/Final-Project.git
